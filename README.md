@@ -60,5 +60,8 @@
 - Računalniška Orodja v Fiziki
 - Fizikalni Praktikum 1
 - Fizikalni Praktikum 2
+- KSD
+- MAT
+- KF
 - Uporabne stvari
   

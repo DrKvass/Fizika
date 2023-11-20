@@ -1,1 +1,1 @@
-# Nedokončano
+# NEPOPOLNO

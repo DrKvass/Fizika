@@ -1,8 +1,11 @@
+Tukaj je seznam tem, ki naj bi jih Mrčun spraševal na ustnem izpitu razdeljeni v kategorije brez dokazev, torej le trditve in uporabo in dokazi, kjer so našteti znani dokazi, ki jih redno sprašuje. Zraven, kjer je mogoče, je zabeležena tudi stran v skripti kjer je snov obravnavana.
+
+
 ---------- Brez dokazov ----------
 
 Inverzna matrika:
-	Definicija(str. 5)
-	Izračun inverza  (str. 20)
+	Definicija (str. 5)
+	Izračun inverza (str. 20)
 
 Gauss-Jordanova eliminacija (str. 17)
 

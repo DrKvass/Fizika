@@ -1,0 +1,53 @@
+To so vprašanja za matematiko 1 pri Mrčunu za leto 2023/24, pridobljeno od vprašanih, ki so svoje odgovore zapisovali na: 
+https://unilj-my.sharepoint.com/:w:/g/personal/ks94690_student_uni-lj_si/EVKKRRDtdhlHkX3n929nNVUBmB0BYRCEh6engguz3nVW4w?e=r8MojB
+tukaj je zbrano le, za slučaj če se dokument izbriše v prihodnje.
+
+Vprašanja matematika 1: 
+
+Lagrangeev izrek, funkcijske vrste, Taylorjev razvoj. - Hotel je vedeti formulo za Taylorjevo vrsto, ostanek pri Taylorjevem polinomu , potem sem moral napisati prvih nekaj členov in konvergenčni radij 
+  binomske vrste, potem me je spraševal še o konvergenci (razliko med konvergenco po točkah in enakomerno konvergenco). In zdi se mi, da bi bilo njegovo zadnje vprašanje dokaz, da je limita vrste 
+  odvedljivih funkcij odvedljiva, če so odvodi enakomerno konvergentni, ampak je ocenil, da ga verjetno ne bom znal. 
+
+Vektorski produkt (kk se ga zracuna, pa pc to da je antikomutativen pa jakobijeva identiteta paa tti kurci), binomska vrsta(kje konvergira pa kak je z enakomerno konvergenco pa pc napisat sm jo mogu),
+  totalna odvedljivost(una limita pa  ka use pol posledicno vela za totalno odvedljive funkcije ), pa še smerni odvod(spet una tadruga limita pa da se ga zracuna tk da gradient pomnozis z vektorjem)  
+
+Vektorski produkt- kako ga zracunat, lastnosti, jacobijeva identiteta, kdaj je enak 0. Binomska vrsta - napisat jo, konvergencni radij, kje koncergira, kok je njena vsota. Kako z uporabo odvoda 
+  dolocimo ekstrem + 3. Zadostni al kaj js vem kak pogoj ze res. Totalna odvedljivost + ali je vsaka parcialno odvedljiva funkcija tudi totalno odvedljiva (Pisno mam pa 7, ce komu pomaga) 
+
+Newton Lebniz formula + dokaz. Poj pa se ukrivljenost pa torzija - da sm izpeljov enacbe. (Pisno sm meu 10) 
+
+Katere funkcije so integrabilne, kaj je darbojev integrall, dokaz da je zvezna funkcija integrabilna, zaporedja funkcij, enakomerna konvergenca, (pisno sem imel 10)
+
+Funkcijske vrste(razlika med konvergenco po točkah pa enakomerno konvergenco, pogoj da je limitna funkcija integrabilna/odvedljiva če so fn integrabilne/odvedljive), dokaz za vsaka zvezna funkcija, 
+  definirana na zaprtem omejenem intervalu je enakomerno zvezna, formule za ploščino lika za f(x) pa parametrično podano krivuljo(iz kolokvijev sem imel 9) 
+
+Mene je vprašal funkcijska zaporedja. Kako definiramo konvergenco po točkah pa enakomerno konvergenco. Kakšna je razlika. En primer funkcijskega zaporedja ko konvergira po točkah pa ne konvergira 
+  enakomerno (zaporedje potenčnih funkcij). Pol kaj se zgodi če so funkcije zvezdne pa enakomerno konvergirajo. Kaj se zgodi z odvodi funkcij ko za zaporedje enakomerno konvergira. Kaj je totalna 
+  odvedljivost (kaj so njene posledice primer. funkcija obstajajo vsi smerni odvodi) pa kdaj je funkcija totalno odvedljiva. Za dokaz pa je vprašal Newton-Libnizevo formulo. Rad ma da prvo napišeš 
+  kaj ti dajo predpostavke (na primer funkcija je zvezdna, pol vzameš take spremenljivke [x , a], da bo bo velalo naslednje: pa napišes kaj ti da zvezdnost) pol pa dokažeš ostalo pac, tudi če slucajno 
+  pozabiš te pa vpraša (sicer ne direktno) pa če se ne spomnis pa greš naprej z dokazom pa se pol vmes spomniš kaj rabiš pa tud gre (pol pa isto poveš ko pa bi na začetku za predpostavko) . Je pa ful 
+  prijazen. (Pisno sem mel 9) 
+
+Mene je vprašal potenčne vrste, njihova konvergenca, enakomerno konvergenco, Weierstrassov test za enakomerno konvergenco, kdaj lahko zamenjamo vrstni red računanja vsote/odvoda/integrala in limite, 
+  enakomerno konvergenco potenčnih vrst in dokaz za to. Pa še totalno odvedljivost, njene posledice, ali je zvzno odvedljiva funkcija totalno odvedljiva. Pisno sem mel 9 
+
+Mene je vprašal definicijo konvergence po točkah in enakomerne konvergence, naj na primeru pokažem razliko med njima. Zakaj x^n konvergira po točkah in ne enakomerno? Kdaj je limitna funkcija zvezna 
+  (kadar zaporedje zveznih funkcij enakomerno konvergira k njej), kaj mora bit izpolnjeno, da je tudi limitna funkcija integrabilna in kaj, da je odvedljiva. Kaj je enakomerna zveznost. Dokaz, da je 
+  zvezna funkcija, definirana na zaprtem omejenem intervalu, integrabilna. Zakaj končno število točk ne vpliva na integrabilnost? Kako bi se dokaz spremenil, če imamo odsekoma zvezno funkcijo, da je 
+  integrabilna. Torzija, ukrivljenost, pritisnjena krožnica. Poveš enačbe in potem še s svojimi besedami, kaj to pomeni. (Pisno imam 9). 
+
+Jz sm rabla definirat konvergenco po točkah in enakomerno konvergenco funkcijskih zaporedij. Pol sm rabla dt primer funkcijskega zaporedja ki je konvergentno po tockah ampak ni enakomerno konvergentno. 
+  Povedat sm rabla kdaj je limitna funkcija zvezna in kdaj odvedljiva. Pr temu da je limitna funkcija odvedljiva me je pol sprasvou o tem kaj lahko povem ce je funckijso zaporedje in limitna funckija 
+  definirano na odprtem intervalu do neskončnosti,, to mi je reku da nismo delal ampak da sam probam mal razmislt in povedat kaj si jz mislm; vsec mu je blo ko sm prsla do tega da veljajo enaki pogoji 
+  za odvedljivost tut na intervalu do neskončnosti, ker lahko opazujemo funkcijsko zaporedje na vsakem podintervalu in bo tm to drzal zato to drzi tudi na celotnem intervalu do neskoncnosti. Po tem sm 
+  rabla povedat in dokazat newton-leibnizovo formulo. Na koncu sm sam na hitr rabla z besedami povedat kaj je ukrivljenost in torzija pa povedat kako zračunamo ukrivljenost (to da je enako 1/R od une 
+  kroznice) ter kaksna je formula z normalni enotski vektor, ampak pol sm neki cudn definirala T in je reku da naj odvajam vektor r (pot) po s in pr tem je on mi prakticno vse narekvou kaj pisat in jz sm
+  sam kej umes bla tko ou ah jes this. 		overall je biu zlo prjazn in strpn z vsemi popravki ka sm jih delala, pisno sm pa mela 10  
+
+Potrebni in zadostni pogoj za konveksnost in konkavnost, totalna odvedljivost, dokaz, da je totalno odvedljiva funkcija zvezna, logaritemska vrsta in njen konvergenčni radij, konvergenca potenčnih vrst, 
+  uporaba Weierstrassovega M-testa (pisno 6) 
+
+Lastnoti zvezne funkcije (+ Rollejev izrek, Lagrangev pa Cauchyev kriterij), totalna odvedljivost (una limita), lastnosti totalno odvedljivih funkcij, enakomerna konvergenca pa konvergenca po točkah, 
+  pa krivulja v R^3 (ukrivljenost, “hitrost” parametrizirane krivulje, “pospesek”...) (pisno 8) 
+
+Enakomerna konvergenca in njene posledice, dokaz, da je zvezna funkcija definirana na zaprtem intervalu enakomerno zvezna (pisno 9) 

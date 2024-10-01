@@ -1,0 +1,90 @@
+To so vprašanja za matematiko 2 pri Mrčunu za leto 2023/24, pridobljeno od vprašanih, ki so svoje odgovore zapisovali na: 
+https://unilj-my.sharepoint.com/:w:/g/personal/ks94690_student_uni-lj_si/EZUHv8FHzepKvfAa_0tZlNMB3X6iGE3UxsOjz1pewB2anw?e=iO7FQo
+tukaj je zbrano le, za slučaj če se dokument izbriše v prihodnje.
+
+-USTNI IZPIT MAT2 - vprašanja:
+
+Definicija in lastnosti determinante, kaj je simetrična grupa permutacij, kaj so permutacije, kako dobimo “preznak”, kdaj je permutacija liha ali soda. Schurov in Cayley hamiltonov izrek. Kaj je inverz 
+  matrike in kdaj matrika ima inverz, kako ga dobimo, kako dobimo kofaktorsko matriko. Kdaj je matrika diagonalizabilna, kako dobimo prehodno matriko, kaj so lastni vektorji. (oboje 7) 
+
+Lagrangejeva metoda multiplikatorjev, determinanta definicija in  , diagonalizabilnost nad R in nad C, ali so Ortogonalne matrike obrnljive. 
+
+Implicitna funkcija + dokaz, ortogonalne mateike, kompozicija rotacij, Banachov izrek  
+
+Reševanje sistemov enačb, Cramerjevo pravilo, kaj je afini prostor, pozitivna in negativna definitnost ter kakšne so tam lastne vrednosti, Sylvestrov kriterij, dokaz, da so lastne vrednosti 
+  sebi-adjungiranih preslikav realne, ali so vse ortogonalne matrike diagonalizabilne in zakaj. 
+
+Lagrangeova metoda multiplikatorjev, kdaj so ortogonalne matrike diagonalizabilne, diagonalizabilnost nad R in C(pisno 9 ustno 7) 
+
+Definicja vezanih ekstremov, Lagradgejevi multiplikatorji z dokazom (ocena 9) 
+
+Koliko rešitev ima lahko sistem linearnih enačb, reševenje linearnih enačb z razširjeno matriko, kako vemo kdaj ni rešitve, kdaj neskončno..., kaj je vektorski, afini podprostor, Cramerjevo pravilo za 
+  izračun determinante, lastnosti determinante, kaj so ortogonalne matrike, lastnosti, pokaži, da je pri ortogonalnih matrikah |λ| = 1. (pisno 7, ustno 7) 
+
+Definicija vezanih ekstremov + obrazložitev predpostavk in konkretni primer, Lagrangeovi multiplikatorji z dokazom (pisno 10) 
+
+Katere endomorfizme so diagonalizabilne? (podvprašanje diagonalizabilnost nad R in nad C) Kako lahko zapišemo ortogonalno matriko in pomen. Dokaz: izrek, vsak normalan endomorfizam je unitarno 
+  diagonalizabilen. Dokaz: trditev, vsak Et(lambda)-ortogonalno je T invarianten (T je normalen endomorfizem) ) (pisno 10, ustno 10) 
+
+Definicija sebi-adjungiranih endomorfizmov, ali so diagonalizabilni nad R (dokaz). Dokaz izreka o implicitni funkciji, pogoji i zreka o inverzni funkciji. (pisno 10, ustno 9)  
+
+Inverz matrike (definicija, izračun, katere matrike imajo inverz), determinanta (lastnosti, definicija, izračun), kdaj je endomorfizem diagonalizabilen (na R in C), katere matrike so diagonalizabilne, 
+  kdaj je endomorfizem adjungiran, Rieszov izrek, inverzna funkcija, Banachov izrek (pisno 6, ustno 9) 
+
+Kaj so vezani ekstremi, Lagrangeova metoda multiplikatorjev + dokaz, kako izračunamo eksponent matrike (lahko kot neskončno vrsto ali pa diagonaliziramo, ali pa na vajah smo enkrat s pomočjo 
+  Cayley-Hamiltonovega izreka), kdaj velja eAeB=eA+B (odgovor je ko matriki komutirata), kaj pomeni da je endomorfizem pozitivno definiten / negativno definiten, Sylvesterov kriterij in kako izgleda 
+  za negativno definitne (glavne poddeterminante sodih dimenzij so pozitivne, glavne poddeterminante lihih dimenzij so negativne), kakšne so lastne vrednosti hermitske matrike (vse so realna števila). 
+  (pisno 8, ustno 10) 
+
+Lastnosti, definicija ortogonalnih matrik, diagonalizabilnost ortogonalnih matrik, geom pomen 5x5 ortogonalne matrike, izrek o implicitni funkciji + dokaz (pisno 8, ustno 10) 
+
+Shurov izrek z dokazom, diagonalizabilnost matrik, primer nediagonalizabilne matrike 2x2, rotacijske 2x2 matrike in diagonalizacija le teh, izrek o implicitni funkciji z dokazom (pisno in ustno 9) 
+
+Izrek o implicitni funkciji z dokazom, definicija direktne vsote (pisno 9, ustno 10) 
+
+Kaj je vezan ekstrem, Lagrangov izrek + dokaz, diagonalizibilnost definicija, definicija direktne vsote, razlika med navadno in direktno vsoto (pisno 8, ustno 9) 
+
+Normali endomorfizmi, dokaz da so unitarno diagonalizabilni, da je pravokotni komplement lastnega prostora T-invarianten, implicitna funkcija dokaz (za katero rabis tut inverzno funkcijo. 
+  Pri temu dokazu je ful pomagal pa je blo vseen vredu (pisno in ustno 10) 
+
+Izrek o implicitni funkciji z dokazom, zravn me je umes ustavu in reku naj narisem kako zgledata mnozici W in V v ravnini R^n (x os),R^m(y os)-mnozica V je tko neka ploskev in W je predel 
+  te ploskve ki seka R^n pa pol me je se o tem zakaj je W odprta, kaj pomen to da je odprta in ce je odprta v tej ravnine(ni odprta v ravnini ker je ravnina 2 dim in W ene dimenzija), pol na koncu me 
+  je se o ranku matrike, ali se spremeni s transponiranjem (ne) in kako to pokazemo (s poddeterminantami ker se ne spremenijo pri transponiranju in najvecja nenicelna poddet. je enaka ranku) 
+  (pisno 9 ustno 10) 
+
+Kaj so to vezani ekstremi, Lagrangeva metoda multiplikatorjev z dokazom, na koncu se je zelel da mu pojasnim, zakaj mora bit rank(Dg(a)) = m, precej je vrtal v to. (pisno in ustno 10) 
+
+Ortogonalni endomorfizmi, diagonali zabilnost, dokaz da so vsi otrogonalni endomorfizmi diagonalizabilni, rešitve sistemov enačb, vezani ekstremi, lagrangevi multiplikatorji. (pisno in ustno 8) 
+
+Gauss-Jordanovo eliminacijo, inverz, ortogonalne preslikave, ortogonalna diagonalizabilnost, normalni endomorfizmi in kdaj so diagonalizabilni, geometrijski pomen 4x4 ortogonalnih matrik, 
+  izrek o inverzni funkciji (pisno in ustno 7) 
+
+Schurov izrek + dokaz, izrek o implicitni funkciji + dokaz, ful je hotu dokaze, vmes pa so ga zanimale še lastne vrednosti, lastni podprostori in izrek o inverzni funkciji (pisno 9 ustno 8) 
+
+Izrek o inverzni funkciji,  Schurov izrek in Cayley-Hamiltonov izrek (pisno 8, ustno L)	 
+
+Kdaj so vektorji linearno neodvisni. Kdaj vektorji tvorijo bazo oziroma kaj mora za te vektorje veljati, da tvorijo bazo. Gauss-Jordanovo eliminacijo. Računanje determinante po stolpcih/vrsticah. 
+  Cramerjevo pravilo. Računanje inverzne matrike. Kaj velja za rank matrike če imaš K linearno neodvisnih vektorjev, in primerjati z N, ki je dimenzija prostora, oziroma povedati, da če imaš v matriki
+  K linearno neodvisnih vektorjev, in ti razpenjajo N-dimnezionalni prostor, velja K = N. Pokazati, da vsak vektor ima natanko en unikatni razvoj po bazi. Linearna Cenačba v matrični obliki, dimenzije 
+  matrik, število rešitev sistema linearnih enačb. Schurov izrek (izrek + dokaz). Diagonalizabilnost matrike oziroma kdaj je matrika diagonalizablina. Karakteristični polinom matrike, in Cayley-Hamiltonov 
+  izrek. Funkcije čez matrike, ki je diagonalizabilna, npr. exp(A), log(A). Funkcije čez matrike, ki niso diagonalizabline (razvoj funkcije v Taylorjevo vrsto). Kaj mora veljati za funkcijo čez matriko, 
+  npr. f(A), da lahko to zračunamo? (Spekter A mora bit podmnožica zaloge vrednosti funkcije). (pisno 7, ustno 7) 
+
+Doakz da so vsi normalni endomorfizmi diagonazibilni, moreš vedet zakaj si kaj nardi pa zaka je zožitev na podprostor ortogonalno spe normalen endomorfizem. Dokaz, da je podprostor lambda ortogonalno 
+  T-invarianten.  Pol pa je vprašal kolko je T-invarjatnih podprostorov. (vsak podprostor lastnega je tudi T invarjanten je ena vaja) pol pa direkno vsoto vseh ko so podprostorov lastnih nardiš ko so 
+  T-invarjantni pa maš ( me je vprašal če se spomnim dokaza te vaje, ni kompliciral ko sem reko ne) pol me pa je vprašal idejo izraka o inverzni funkciji (reko sem da uporabimo če je razlika norme dveh 
+  matrik dost mala po če je A obrnljiva je tudi B, pa da uporabimo Banahov izrak o skrčitvi) pol pa še kak pri dokazu Banaha pokažemo da je b negibna. Pa sem mu samo idejo dokaza povedal pa je blo ok. 
+  Če začne kaj Mčun govorit, je fajn da si vljuden in ga ne prekineš in samo na tablo napišeš kaj ti je povedal, če je kaj v zvezi z tem ko moreš dokazat al pa razložit (pisno 10, ustno 10)  
+
+Determinanta: definicija, lastnosti, determinanta produkta matrik je enaka produktu determinant + dokaz (s pomočjo elementarnih matrik) (pisno 8, ustno 9) 
+
+Sistemi encab, kako jih zapisemo v matricni obl., koliko resitev majo itd. Kaj ce matrika A ni kvadratna. Diagonalizacija matrik, primer konkretne matrike ki ni diagonalizabilna, kako to nahitro vidis. 
+  Diagonalizacija normalnih matrik, ali so vse ortogonalne matrike diagonalizabilne nad R/C; konkreten primer z rotacijsko matriko, pa to foro z blocnim zapisom ortogonalnih matrik k je v enem zgledu. Vezani 
+  ekstremi in Lagrangevi multiplikatorji. (oboje 8) 
+
+Izrek o implicitni funkciji, vezani ekstremi, lastnosti normalnih endomorfizmov, definicije različnih tipov matrik (ortogonalne, unitarne, simetrične, hermitske), lastnosti ortogonalnih matrik (determinanta in 
+  lastne vrednosti absolutno 1 in dokaz) (pisno 9, ustno 8) 
+
+Determinanta, lastnosti determinante (det(AB) = det(A)*det(B), da je neodvisna od baze ipd...), kako jo izračunamo (razvoj po vrstici, Gauss-Jordanova el. ...), def. Inverza, kdaj je matrika obrnljiva (ko ima 
+  neničelno det.), kako lahko izračunamo inverz, sebi-adjungirani endomorfizmi def. In lastnosti, dokaz da so vse lastne vrednosti sebiadj. End. Pozitivne, dokaz da je vsak sebi-adjungiran endomorfizem unitarno 
+  diagonalizabilen (pisno 8, ustno 9) 

@@ -1,0 +1,115 @@
+---------- Brez dokazov ----------
+
+Inverzna matrika:
+	Definicija(str. 5)
+	Izračun inverza  (str. 20)
+
+Gauss-Jordanova eliminacija (str. 17)
+
+Reševanje sistemov linearnih enačb (str. 21):
+	Koliko rešitev je (str. 25)
+
+Determinanta:
+	Definicija (str. 32)
+	Lastnosti (str. 33-34)
+	Računanje determinante  (str. 32)
+
+Ortogonalne preslikave/matrike (str. 39):
+	Definicija (str. 39)
+	Obrnljivost (str. ??)
+	Lastne vrednosti (dokaz) (str. ??)
+	Diagonalizabilnost (ali so vse?) (str. ??)
+	Geometrijski pomen 3x3 ort. matrike (str. ??)
+	Produkt dveh ort. matrik (str. ??)
+
+Cramer-jevo pravilo za izračun determinante (str. 43)
+
+Cramer-jevo pravilo za reševanje sistemov enačb (str. 43)
+
+Definicija vektroskega prostora (str. 47)
+
+Linearno neodvisni vektorji  (str. 52)
+
+Definicija afinega prostora (str. 67-68)
+
+Karakteristični Polinom matrike (str. 81-83):
+	Lastne vrednosti (str. 85 )
+	Algebraična kratnost (str. 85)
+	Geometrijska kratnost (str. 85)
+	|lambda| = 1 ; ort. mat. (str. 120)
+
+Diagonalizabilnost nad R in C (str. 88)
+	Katere matrike so diagonalizabilne (str. ??)
+	Kdaj NI zgornje trikotna matrika diagonalizabilna {Če je kakšna vrednost na diagonali 0}
+
+Schurov Izrek {Za končno dim. VP, za T obstaja baza B, tako da T reprezentira zgornje trikotna matrika} (str. 93)
+
+Cayley-Hamiltonov izrek {P_T(T) = [0]} (str. 95)
+
+Funkcije na matrikah (str. 97)
+	Izračun exp(A), če A ni diagonalizabilna {Vrste iz 1. semestra}
+
+Polarizacijska enačba (str. 105)
+
+Gram-Schmitd-ov postopek {Postopek ortonormiranja vektrojev/baz} (str. 107)
+
+Riszev izrek  (str. 110)
+
+Normalne preslikave/matrike (str. 121):
+
+Sebi-adjungirani endomorfizmi (str. 126):
+	Definicija (str. 126)
+	Lastnosti (str. 126)
+	Zveza z hermitskimi matrikami (str. 126)
+	Lastne vrednosti {so realne} (str. 126)
+
+Pozitivno definitni endomorfizmi {<Tv, v> > 0; za vsak v elemnt V; V je končno-dim.} (str. 128)
+
+Lastne vrednosti pri poz. definitnosti (str. 129)
+
+Negativna definitni endomorfizmi (str. 130)
+
+Sylvestrov kriterij (str. 130)
+
+Ploskve 2. reda (str. 141)
+
+Metrike (str. 145):
+	Primer
+	Lasnosti (str. 145)
+
+Banach-ov izrek {Pri skrčitvi obstaja natanko ena točka, ki si ne spremeni koordiant} (str. 153)
+
+Vezani ekstremi (str. 163)
+
+Inverzna funkcija (str. 158)
+
+------------- Dokazi -------------
+
+Dokaz Schur-ovega izreka (str. 93)
+
+Za T-invarianten podprostor, je ortogonalni komplement T*-invarianten  (str. 117)
+
+Lastne vrednosti ortogonalne matrike so po velikosti enake 1 (str. 120)
+
+Za neko preslikavo T, je ortogonalni komplement lastnega podprostora T-invarianten  (str. 121)
+
+Normalna matrika je unitarno diagonalizabilna (str. 122)
+
+Lastne vrednosti sebi-adjungirane preslikave so realne (str. 126)
+
+Dokaz Banach-ovega izreka (str. 153)
+
+Izrek o implicitni funkciji (str. 160)
+
+Lagrange-jeva metdoa multiplikatorjev (str. 163)
+
+Vsak X je diagonalizabilen; kjer je X: (str. ??)
+	Normalen
+	Sebi-adjungiran unitarno
+	Ortogonalno
+
+Vsak sebi adjungiran endomorfizm je unitarno diagonalizabiln nad kompleksnimi števili  (str. ??)
+
+-------------- MISC. -------------
+
+Kompozicija rotacij je rotacija

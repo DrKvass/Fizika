@@ -14,17 +14,25 @@
 
 ### 1.2 Povezave (bivših) študentov :
 
-[Miha Pompe](https://github.com/mihapompe/FMF-Fizika-zapiski)
-
 [Marko's Chest (pengu5055) ](https://pengu5055.github.io/?fbclid=IwAR2FmSdN4Zu7cCiF60N6zEBi9yAepLaD-wJ4s2yGI_mmeIdwY22xGrWfYMk)
 
-[kristof Spenko ](https://drive.google.com/drive/folders/0B3flMWYcE_niTmVVckt4ZlNuakE?resourcekey=0-dOhPvHLevCxCsMbG82EZpQ)
+[Martin Šifrar 2. Letnik ](https://gitlab.com/martinsifrar/fizika-2)
 
-[gregpr07 ](https://github.com/gregpr07/FMF)
+[Krištja's zapiski](https://kokicarvesolja.github.io/)
 
 [Urban Duh cheatsheets ](https://gitlab.com/uduh/fmf_physics_cheatsheets)
 
+[Mašini aesthetically pleasing zapiski ](https://masakotnik.github.io/)
+
+[Miha Pompe](https://github.com/mihapompe/FMF-Fizika-zapiski)
+
+[kristof Spenko ](https://drive.google.com/drive/folders/0B3flMWYcE_niTmVVckt4ZlNuakE?resourcekey=0-dOhPvHLevCxCsMbG82EZpQ)
+
+[Gregor Žunič ](https://github.com/gregpr07/FMF)
+
 [Elija Mastnak ](https://www.ejmastnak.com/notes/fmf/fmf/)
+
+[Martin Šifrar 3. Letnik ](https://gitlab.com/martinsifrar/fizika-3)
 
 [Matevž Prinčič](https://matevzprincic.splet.arnes.si/)
 
